@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4588" started-at="2019-05-02T00:09:17Z" finished-at="2019-05-02T00:09:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4588" started-at="2019-05-02T00:09:17Z" finished-at="2019-05-02T00:09:22Z">
+      <class name="restAssured.test1">
+        <test-method status="PASS" signature="getWetherDetails()[pri:0, instance:restAssured.test1@cb0ed20]" name="getWetherDetails" duration-ms="4516" started-at="2019-05-02T00:09:18Z" finished-at="2019-05-02T00:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWetherDetails -->
+      </class> <!-- restAssured.test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -32,7 +32,7 @@ public class Test2 {
 	 String SucessCode = response.jsonPath().getString("SucessCode");
 	 System.out.println("REsponseBody is ......" + response.body().asString());
 	 Assert.assertEquals("Correct SucessCode", SucessCode);
-	 //add on eline in my program ti chet git merging
+	
 	 
 	 
 	 
